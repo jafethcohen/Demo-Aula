@@ -5,7 +5,7 @@ function validacion () {
 
     if (usuario == "admin@gmail.com" && contraseña == "contra123") {
 
-        window.location="vistachill.html"
+        window.location="vista2.html"
         return false
 
     } if (usuario == "estudiante@gmail.com" && contraseña == "contra1234" ) {
