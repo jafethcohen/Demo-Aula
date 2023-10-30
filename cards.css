@@ -1,0 +1,41 @@
+* {
+
+    margin: 0;
+    padding: 0;
+
+}
+
+
+.cartas{
+
+    display: inline-flex;
+
+
+}
+.cards {
+
+    background-color: aliceblue;
+    padding: 20px;
+    width: 300px;
+    height: 300px;
+    margin-top: 100px;
+    margin-left: 50px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+   
+}
+
+
+.contenedor_titulo {
+    min-height: 68px;
+}
+
+.contenedor_titulo2 {
+    min-height: 30px;
+}
+
+.contenedor_parrafo {
+    min-height: 125px;
+}
